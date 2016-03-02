@@ -12,3 +12,5 @@ End of change in branch-z1.
 New changes after pull the first change. Now verison is 1.2.
 
 Changes in branch-z2. Update to version 1.3.
+
+More changes in branch-z2
